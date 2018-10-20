@@ -5,5 +5,5 @@ The training text files are retrieved from [Project Gutenberg](https://www.guten
 
 Run with python3:
 ```
-$ python3 classify.py <file.txt>
+$ python3 alphabet.py <file.txt>
 ```
